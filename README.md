@@ -6,7 +6,11 @@ A bare-metal-informed embedded project on the STM32F401RE (Nucleo board) that co
 
 
 
-https://github.com/user-attachments/assets/dd85e9e7-0cac-46f7-adbc-0a77120b0cd5
+
+
+https://github.com/user-attachments/assets/05b59465-4c60-4537-b0cb-008c9cd3146a
+
+
 
 
 
